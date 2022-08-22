@@ -1,0 +1,17 @@
+@font-face {
+    font-family: lalezar;
+    src: url(./font/Lalezar.eot) format('eot');
+    src: url(./font/Lalezar.ttf) format('ttf');
+    src: url(./font/Lalezar.woff) format('woff');
+  }
+
+  *{
+font-family: lalezar;  
+}
+.cont{
+    flex-wrap: wrap;
+}
+.text{
+    font-size: 3rem;
+    margin: 30px 20px;
+}
